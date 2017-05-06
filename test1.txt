@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 78DA-EC04
+
+ Directory of C:\Other\Softwares\Git\TestProjForGitAdd
+
+05/07/2017  12:47 AM    <DIR>          .
+05/07/2017  12:47 AM    <DIR>          ..
+05/07/2017  12:47 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,863,300,608 bytes free
